@@ -7,7 +7,7 @@ categories: [техники]
 tags: [осознание]
 pin: true
 image:
-  src:        
+  src: penetrating-quality-awareness.jpg       
   width: 800
   height: 500
 ---
