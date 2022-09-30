@@ -139,6 +139,3 @@ image:
 
 [rrr](https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg)
 
-
-`https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg`{: .filepath}.
-
