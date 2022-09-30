@@ -4,7 +4,7 @@ author: mystic
 date: 2022-09-30 11:10:00 +0300
 categories: [практики]
 tags: [осознание]
-pin: true
+pin: false
 image:
   path: black_room_practice.jpg        
   width: 800
@@ -136,3 +136,9 @@ image:
 В периоды весеннего и осеннего равноденствия лучше всего идут практики вызывания духов.
 
 7. Разотождествление с информационным принуждением.
+
+
+`https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg`{: .filepath}
+
+
+`https://t.me/atmospheric_blackmetal/3701`{: .filepath}
