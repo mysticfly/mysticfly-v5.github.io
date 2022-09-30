@@ -4,7 +4,6 @@ author: mystic
 date: 2022-09-30 11:10:00 +0300
 categories: [практики]
 tags: [осознание]
-pin: false
 image:
   path: black_room_practice.jpg        
   width: 800
@@ -139,3 +138,7 @@ image:
 
 
 [rrr](https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg)
+
+
+`https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg`{: .filepath}.
+
