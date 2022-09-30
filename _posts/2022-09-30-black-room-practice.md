@@ -138,7 +138,4 @@ image:
 7. Разотождествление с информационным принуждением.
 
 
-`https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg`{: .filepath}
-
-
-`https://t.me/atmospheric_blackmetal/3701`{: .filepath}
+[rrr](https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/black_room_practice.jpg)
