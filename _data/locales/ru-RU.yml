@@ -52,7 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Автор
+  written_by: Автор:
   posted: Опубликовано
   updated: Обновлено
   words: слов
