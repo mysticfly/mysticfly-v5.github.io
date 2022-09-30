@@ -4,7 +4,7 @@ author: Tarthang Tulku
 date: 2022-09-29 17:20:00 +0300
 categories: [техники]
 tags: [осознание]
-pin: true
+pin: false
 image:
   path: penetrating-quality-awareness.jpg       
   width: 800
