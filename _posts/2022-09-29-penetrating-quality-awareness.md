@@ -2,7 +2,7 @@
 title: "Проникающее качество прямого осознавания."
 author: Tarthang Tulku
 date: 2022-09-29 17:20:00 +0300
-categories: [техники]
+categories: [практики]
 tags: [осознание]
 pin: false
 image:
