@@ -20,3 +20,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 body {
 font-family: 'Open Sans', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
+
+#search-results a, #search-hints .post-tag, a {
+    color: #51002B;
+}
