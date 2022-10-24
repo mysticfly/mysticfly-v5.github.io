@@ -58,4 +58,5 @@ image:
 
 [Картинка]([url](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/photo_2022-10-03_20-13-25.jpg)
 
+
 Тартанг Тулку Ринпоче "Жест равновесия".
