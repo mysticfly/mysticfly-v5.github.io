@@ -56,7 +56,7 @@ image:
 
 [архив](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/fontconverter.zip)
 
-[Картинка]([url](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/photo_2022-10-03_20-13-25.jpg)
+[Картинка](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/photo_2022-10-03_20-13-25.jpg)
 
 
 Тартанг Тулку Ринпоче "Жест равновесия".
