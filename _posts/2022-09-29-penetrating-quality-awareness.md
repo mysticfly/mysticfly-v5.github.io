@@ -58,5 +58,9 @@ image:
 
 [Картинка](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/photo_2022-10-03_20-13-25.jpg)
 
+[Tarot Master](https://ipfs.filebase.io/ipfs/QmdNeNvB51j47axkjfJ5tbjpwoWTLHf8Ketq1N1AXMgh5u/)
+
+[IPFS Archive](https://ipfs.filebase.io/ipfs/Qmey7nWUN9jD8YWvJQmZ7KjgdwZogSGjmCT27xDvJrU6ya)
+
 
 Тартанг Тулку Ринпоче "Жест равновесия".
