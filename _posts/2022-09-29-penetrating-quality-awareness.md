@@ -50,17 +50,4 @@ image:
 
 Поскольку сознательно или неосознанно тревога является причиной многих наших проблем, важно иметь с ней дело, как только она появляется. Лучшее противоядие против тревоги — это медитация. Когда мы осваиваем управление эмоциями с помощью медитации, то оказываемся менее обремененными проблемами, наши тело и ум становятся совершенно спокойными, и тревога начинает растворяться в спокойной релаксации и тишине. Тогда мы можем начать работать с нашими проблемами непосредственно, поскольку больше не чувствуем необходимости бежать от них. Напряженность и задержки уходят естественно. Таким образом мы более не находимся в цикле страстных стремлений и тревог и можем радоваться жизни. Это первая стадия медитации.
 
-[Строфы_PDF](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/%D0%A1%D1%82%D1%80%D0%BE%D1%84%D1%8B_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D1%8B%D1%85.pdf)
-
-⬇️[Звук_MP3](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/hand-swipe-over-desktop-keyboard-apple-magic-keyboard-.mp3)⬇️
-
-⛛[архив](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/fontconverter.zip)⛛
-
-⬇️[Картинка](https://cdn.jsdelivr.net/gh/mysticfly/cdn/files/photo_2022-10-03_20-13-25.jpg)⬇️
-
-# [Tarot Master](https://ipfs.filebase.io/ipfs/QmdNeNvB51j47axkjfJ5tbjpwoWTLHf8Ketq1N1AXMgh5u/)⛛
-
-[IPFS Archive](https://ipfs.filebase.io/ipfs/Qmey7nWUN9jD8YWvJQmZ7KjgdwZogSGjmCT27xDvJrU6ya)
-
-
 Тартанг Тулку Ринпоче "Жест равновесия".
