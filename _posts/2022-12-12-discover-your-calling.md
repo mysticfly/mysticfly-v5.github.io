@@ -24,9 +24,8 @@ image:
 
 По всем вопросам можно писать в телеграм [@TAROT_PRO](https://t.me/TAROT_PRO) или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)
 
-
+---
+⭐⭐⭐⭐⭐
 С уважением и заботой.
-
-Mystic Fly
 
 *Когда человек ограничен пределами своего восприятия реальность не может быть определена.*
