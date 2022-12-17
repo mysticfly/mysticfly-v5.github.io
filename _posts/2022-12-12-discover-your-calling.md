@@ -33,6 +33,8 @@ image:
 ---
 *С уважением и заботой.*
 
+---
+
 *по вопросам писать в telegram [@TAROT_PRO](https://t.me/TAROT_PRO)*
 
 *или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)*
