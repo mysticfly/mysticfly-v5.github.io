@@ -30,9 +30,9 @@ image:
 
 С таким подходом гарантирован несомненный результат который впечатляет.
 
+---
+*С уважением и заботой.*
+
 По всем вопросам можно писать в telegram [@TAROT_PRO](https://t.me/TAROT_PRO) 
 
 или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)
-
----
-*С уважением и заботой.*
