@@ -22,10 +22,14 @@ image:
 
 Открыть доступ можно за 3 333 руб (или $50). 
 
-По всем вопросам можно писать в телеграм [@TAROT_PRO](https://t.me/TAROT_PRO) или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)
+По всем вопросам можно писать в telegram [@TAROT_PRO](https://t.me/TAROT_PRO) 
+
+или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)
 
 ---
-⭐⭐⭐⭐⭐
-С уважением и заботой.
+p=. ⭐⭐⭐⭐⭐
+С уважением и заботой. 
+
+p>. Mystic Fly
 
 *Когда человек ограничен пределами своего восприятия реальность не может быть определена.*
