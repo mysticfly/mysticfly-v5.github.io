@@ -6,7 +6,7 @@ categories: [полезные навыки]
 tags: [деньги]
 pin: true
 image:
-  path: The-Road-to-Financial-Freedom.jpg        
+  path: The-Road-to-Financial-Freedom1.jpg        
   width: 1080
   height: 540
 ---
