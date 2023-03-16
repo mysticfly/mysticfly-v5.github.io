@@ -17,14 +17,14 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 }
 */
 
-body {
-font-family: 'Open Sans', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-}
+// body {
+// font-family: 'Open Sans', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+// }
 
-.post-content {
-    font-size: 1rem;
-    line-height: 1.5;
-    margin-top: 2rem;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-}
+// .post-content {
+//     font-size: 1rem;
+//     line-height: 1.5;
+//     margin-top: 2rem;
+//     overflow-wrap: break-word;
+//     word-wrap: break-word;
+// }
