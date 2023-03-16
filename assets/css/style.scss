@@ -19,7 +19,6 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 body {
   font-family: 'Open Sans', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-  font-size: 0.9rem;
 }
 
 .post-content {
@@ -28,4 +27,13 @@ body {
     margin-top: 2rem;
     overflow-wrap: break-word;
     word-wrap: break-word;
+}
+
+#access-lastmod {
+  li {
+    font-size: 0.9rem;
+  }
+
+  a {
+    font-size: 0.9rem;
 }
