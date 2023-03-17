@@ -2,7 +2,8 @@
 
 -
   type: youtube
-  icon: 'fab fa-youtube'
+  icon: 'fas fa-youtube'
+  url:  '@SENSUSCOMMUNE'
 -
   type: twitter
   icon: 'fab fa-twitter'
