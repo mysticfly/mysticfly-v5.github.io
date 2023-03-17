@@ -1,9 +1,8 @@
 #  The contact options.
 
 -
-  type: youtube
-  icon: 'fas fa-youtube'
-  url:  '@SENSUSCOMMUNE'
+  type: github
+  icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
