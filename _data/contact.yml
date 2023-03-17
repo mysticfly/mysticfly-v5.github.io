@@ -19,7 +19,7 @@
  -
    type: youtube
    icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
-   url:  'https://www.youtube.com/@SENSUSCOMMUNE'                  # Fill with your mastodon account page
+   url:  'https://www.youtube.com'                  # Fill with your mastodon account page
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
