@@ -60,11 +60,10 @@ h5 {
     font-size: 1.2rem;
 }
 
-blockquote.prompt-tip::before {
+blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .prompt-danger::before {
     display: none;
 }
 
-
 blockquote[class^=prompt-] {
-    padding: 1rem 1rem 1rem 1rem;
+    padding: 1rem 1rem 1rem 1.1rem;
 }
