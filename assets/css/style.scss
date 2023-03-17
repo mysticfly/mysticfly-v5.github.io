@@ -63,3 +63,8 @@ h5 {
 blockquote.prompt-tip::before {
     display: none;
 }
+
+
+blockquote[class^=prompt-] {
+    padding: 1rem 1rem 1rem 1rem;
+}
