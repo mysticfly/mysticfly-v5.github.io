@@ -154,10 +154,10 @@
   &.prompt-#{$type} {
     background-color: var(--prompt-#{$type}-bg);
 
-//     &::before {
-//       content: $fa-content;
-//       color: var(--prompt-#{$type}-icon-color);
-//       font: var(--fa-font-#{$fa-style});
-//     }
+    &::before {
+      content: $fa-content;
+      color: var(--prompt-#{$type}-icon-color);
+      font: var(--fa-font-#{$fa-style});
+    }
   }
 }
