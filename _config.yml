@@ -44,11 +44,12 @@ social:
   email: animasanator@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.youtube.com/
     - https://twitter.com/Tarot_Pro      # change to your twitter homepage
-    # - https://github.com/mysticfly       # change to your github homepage
     # Uncomment below to add more social links
+    # - https://github.com/mysticfly       # change to your github homepage
     # - https://www.youtube.com/
-    - https://www.facebook.com/username
+    # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
